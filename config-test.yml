@@ -1,3 +1,2 @@
-# test环境
-server:
-  port:81
+config : 
+  info : "main config-test.yml"
